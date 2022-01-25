@@ -3,7 +3,7 @@
 ### Hola 👋. es Taha.
 
 <!--
-**tahasamavati/tahasamavati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**it is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahasamavati&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestialtaha&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
