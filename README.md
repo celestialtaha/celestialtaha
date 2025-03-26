@@ -91,5 +91,6 @@ I'm a **Generative AI Engineer** and **Data Scientist** passionate about develop
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/celestialtaha/celestialtaha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <!-- Compact contribution calendar - More visually dense representation -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celestialtaha&theme=tokyonight" alt="Taha's Contribution Calendar"/>
 </div>
