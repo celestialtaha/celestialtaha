@@ -1,5 +1,3 @@
-# ﷽
-
 # Hola, es Taha 👋
 
 <div align="center">
@@ -17,10 +15,10 @@
 
 I'm a **Generative AI Engineer** and **Data Scientist** passionate about developing intelligent systems that solve real-world problems. My expertise spans:
 
-- 🤖 **Generative AI & LLMs** - Building agent-based AI products and applications
-- 🧠 **Machine Learning** - Developing models for computer vision and NLP tasks
-- 🔍 **Research** - Contributing to academic publications in AI and healthcare
-- 🌐 **Backend Development** - Creating robust and scalable systems
+- 🤖 **Generative AI & LLMs** - Building agent-based AI products and applications.
+- 🧠 **Machine Learning** - Developing models for NLP and computer vision tasks.
+- 🔍 **Research** - Contributing to academic publications in AI, ML, and RL.
+- 🌐 **Backend Development** - Creating robust and scalable systems.
 
 ## 🔭 Current Focus
 
